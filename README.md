@@ -11,7 +11,7 @@ Typing Practice  is a simple and efficient web-based tool to measure your typing
     - Responsive Design: Works smoothly on all devices – desktop, tablet, or mobile.
 
 ## Technologies Used
-    - HTML: Structure and content.
+    - HTML: Structure and content.  
     - CSS: Styling and layout design.
     - JavaScript: Interactivity and logic.
 
